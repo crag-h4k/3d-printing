@@ -18,7 +18,7 @@ emoji==0.5.4
 feedparser==5.2.1
 file-read-backwards==2.0.0
 filetype==1.0.5
-Flask==0.12.5
+Flask==1.0
 Flask-Assets==0.12
 Flask-Babel==0.12.2
 Flask-Login==0.4.1
