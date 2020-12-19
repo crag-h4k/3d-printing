@@ -1,103 +1,88 @@
-argh==0.26.2
 awesome-slugify==1.6.5
-Babel==2.7.0
-backoff==1.10.0
-backports-abc==0.5
-backports.csv==1.0.7
-Bed-Visualizer==0.1.13
+Babel==2.8.0
+Backup-Scheduler @ https://github.com/jneilliii/OctoPrint-BackupScheduler/archive/0.0.3.zip
+Bed-Leveling-Wizard @ https://github.com/jneilliii/OctoPrint-BedLevelingWizard/archive/master.zip
+Bed-Visualizer @ https://github.com/jneilliii/OctoPrint-BedLevelVisualizer/archive/0.1.15.zip
 blinker==1.4
-cachelib==0.1
-certifi==2019.9.11
-chainmap==1.0.3
+cachelib==0.1.1
+certifi==2020.6.20
 chardet==3.0.4
-Click==7.0
-Consolidate-Temp-Control==0.1.7
-contextlib2==0.6.0.post1
-DisplayLayerProgress==1.21.0
-emoji==0.5.4
+click==7.1.2
+Consolidate-Temp-Control @ https://github.com/jneilliii/OctoPrint-ConsolidateTempControl/archive/master.zip
+Consolidated-Tabs @ file:///tmp/tmpqnc9an3l/OctoPrint-ConsolidatedTabs-master.zip
+DisplayLayerProgress @ https://github.com/OllisGit/OctoPrint-DisplayLayerProgress/releases/latest/download/master.zip
+emoji==0.6.0
 feedparser==5.2.1
 file-read-backwards==2.0.0
-filetype==1.0.5
-Flask==0.12.5
-Flask-Assets==0.12
-Flask-Babel==0.12.2
-Flask-Login==0.4.1
-Flask-Principal==0.4.0
+filetype==1.0.7
+Flask==1.1.2
+Flask-Assets==2.0
+Flask-Babel==1.0.0
+Flask-Login==0.5.0
 frozendict==1.2
 future==0.18.2
-futures==3.3.0
-humanfriendly==8.1
-idna==2.8
-intelhex==2.2.1
-ipaddress==1.0.23
+idna==2.10
 itsdangerous==1.1.0
-Jinja2==2.8.1
-LayerDisplay==0.4.3
-logging==0.4.9.6
+Jinja2==2.11.2
+LayerDisplay @ https://github.com/chatrat12/layerdisplay/archive/master.zip
 Markdown==3.1.1
 MarkupSafe==1.1.1
-marshmallow==2.21.0
-monotonic==1.5
-netaddr==0.7.19
+netaddr==0.8.0
 netifaces==0.10.9
-numpy==1.16.6
-OctoKlipper==0.2.5
-Octolapse==0.4.0
-OctoPrint==1.4.0
-OctoPrint-Autoscroll==0.0.3
-OctoPrint-BetterHeaterTimeout==1.2.0
-OctoPrint-Cancelobject==0.4.1
-OctoPrint-CostEstimation==2.1.3
-OctoPrint-Dashboard==1.13.0
-OctoPrint-DragonOrder==0.1.4
-OctoPrint-Enclosure==4.13.1
-OctoPrint-FileManager==0.1.4
-OctoPrint-FloatingNavbar==0.3.4
-OctoPrint-Gcodebar==0.1.5
-OctoPrint-GcodeEditor==0.2.8
-OctoPrint-LEDStripControl==0.3.7
-OctoPrint-NavbarTemp==0.14
-OctoPrint-PrintTimeGenius==2.2.4
-OctoPrint-Progress-Title==0.1.0
-OctoPrint-Resource-Monitor==0.2.3
-OctoPrint-SimpleEmergencyStop==1.0.1
-OctoPrint-TabOrder==0.5.8
+numpy==1.19.2
+OctoKlipper @ https://github.com/AliceGrey/OctoprintKlipperPlugin/archive/0.3.2.zip
+Octolapse @ https://github.com/FormerLurker/Octolapse/archive/v0.4.0.zip
+OctoPrint==1.4.2
+OctoPrint-Autoscroll @ https://github.com/MoonshineSG/OctoPrint-Autoscroll/archive/master.zip
+OctoPrint-BetterHeaterTimeout @ https://github.com/tjjfvi/OctoPrint-BetterHeaterTimeout/archive/master.zip
+OctoPrint-Cancelobject @ https://github.com/paukstelis/OctoPrint-Cancelobject/archive/master.zip
+OctoPrint-CooldownNotification @ file:///tmp/tmpta_g9mws/OctoPrint-CooldownNotification-master.zip
+OctoPrint-CostEstimation @ https://github.com/OllisGit/OctoPrint-CostEstimation/releases/latest/download/master.zip
+OctoPrint-DragonOrder @ https://github.com/jneilliii/OctoPrint-DragonOrder/archive/master.zip
+OctoPrint-Enclosure @ https://github.com/vitormhenrique/OctoPrint-Enclosure/archive/master.zip
+OctoPrint-FileCheck==2020.8.7
+OctoPrint-FileManager @ https://github.com/Salandora/OctoPrint-FileManager/archive/master.zip
+OctoPrint-FirmwareCheck==2020.9.23
+OctoPrint-FloatingNavbar @ https://github.com/jneilliii/OctoPrint-FloatingNavbar/archive/master.zip
+OctoPrint-Gcodebar @ https://github.com/mtowara/OctoPrint-Gcodebar/archive/master.zip
+OctoPrint-GcodeEditor @ https://github.com/ieatacid/OctoPrint-GcodeEditor/archive/master.zip
+OctoPrint-NavbarTemp @ https://github.com/imrahil/OctoPrint-NavbarTemp/archive/master.zip
+OctoPrint-PrettyGCode @ file:///tmp/tmpytlic_jy/OctoPrint-PrettyGCode-master.zip
+OctoPrint-PrintTimeGenius @ https://github.com/eyal0/OctoPrint-PrintTimeGenius/archive/master.zip
+OctoPrint-PrintTrack @ file:///tmp/tmp6azmpqyz/OctoPrint-PrintTrack-master.zip
+OctoPrint-Progress-Title @ https://github.com/pwnbus/OctoPrint-Progress-Title/archive/master.zip
+OctoPrint-ProgressBasedOnTime @ file:///tmp/tmpmbmcb8x2/OctoPrint-ProgressBasedOnTime-master.zip
+OctoPrint-Resource-Monitor @ https://github.com/Renaud11232/OctoPrint-Resource-Monitor/archive/master.zip
+OctoPrint-SimpleEmergencyStop @ https://github.com/Sebclem/OctoPrint-SimpleEmergencyStop/archive/master.zip
+OctoPrint-SystemCommandEditor @ file:///tmp/tmpmyfrjlhw/OctoPrint-SystemCommandEditor-master.zip
+OctoPrint-TabOrder @ https://github.com/jneilliii/OctoPrint-TabOrder/archive/master.zip
+OctoPrint-WiFiStatus @ file:///tmp/tmpu29v2o9x/OctoPrint-WiFiStatus-master.zip
 pathtools==0.1.2
-picamera==1.13
-pigpio==1.35
-Pillow==6.2.2
+peewee==3.13.3
+Pillow==7.2.0
 pkg-resources==0.0.0
 pkginfo==1.5.0.1
-psutil==5.6.7
-pyasn1==0.4.7
-pybonjour==1.1.1
-pyduinocli==0.7.0
+Print-Job-History @ file:///tmp/tmpvob8t265/master.zip
+psutil==5.7.2
+pyasn1==0.4.8
 pylru==1.2.0
 pyserial==3.4
-Python-3-Plugin-Compatibility-Check==0.1.4
-pytz==2019.3
-PyYAML==5.1.2
-raven==6.10.0
-regex==2019.8.19
-requests==2.22.0
+pytz==2020.1
+PyYAML==5.3.1
+regex==2020.7.14
+requests==2.24.0
 RPi.GPIO==0.7.0
 rsa==4.0
 sarge==0.1.5.post0
-scandir==1.10.0
-semantic-version==2.8.4
-sentry-sdk==0.13.2
-singledispatch==3.4.0.3
-six==1.12.0
-SQLAlchemy==1.1.18
-tornado==4.5.3
-TouchUI==0.3.14
-typing==3.7.4.1
+semantic-version==2.8.5
+sentry-sdk==0.17.8
+six==1.15.0
+tornado==5.1.1
+TouchUI @ https://github.com/BillyBlaze/OctoPrint-TouchUI/archive/master.zip
 Unidecode==0.4.21
-uritools==2.1.1
-urllib3==1.25.6
-watchdog==0.9.0
-webassets==0.12.1
-websocket-client==0.56.0
-Werkzeug==0.16.1
-wrapt==1.11.2
-zipfile2==0.0.12
+urllib3==1.25.10
+watchdog==0.10.3
+webassets==2.0
+websocket-client==0.57.0
+Werkzeug==1.0.1
+wrapt==1.12.1
