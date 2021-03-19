@@ -59,7 +59,7 @@ OctoPrint-TabOrder @ https://github.com/jneilliii/OctoPrint-TabOrder/archive/mas
 OctoPrint-WiFiStatus @ file:///tmp/tmpu29v2o9x/OctoPrint-WiFiStatus-master.zip
 pathtools==0.1.2
 peewee==3.13.3
-Pillow==7.2.0
+Pillow==8.1.1
 pkg-resources==0.0.0
 pkginfo==1.5.0.1
 Print-Job-History @ file:///tmp/tmpvob8t265/master.zip
