@@ -80,7 +80,7 @@ six==1.15.0
 tornado==5.1.1
 TouchUI @ https://github.com/BillyBlaze/OctoPrint-TouchUI/archive/master.zip
 Unidecode==0.4.21
-urllib3==1.25.10
+urllib3==1.26.5
 watchdog==0.10.3
 webassets==2.0
 websocket-client==0.57.0
