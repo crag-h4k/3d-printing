@@ -1,5 +1,5 @@
 awesome-slugify==1.6.5
-Babel==2.8.0
+Babel==2.9.1
 Backup-Scheduler @ https://github.com/jneilliii/OctoPrint-BackupScheduler/archive/0.0.3.zip
 Bed-Leveling-Wizard @ https://github.com/jneilliii/OctoPrint-BedLevelingWizard/archive/master.zip
 Bed-Visualizer @ https://github.com/jneilliii/OctoPrint-BedLevelVisualizer/archive/0.1.15.zip
