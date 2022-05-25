@@ -32,7 +32,7 @@ netifaces==0.10.9
 numpy==1.19.2
 OctoKlipper @ https://github.com/AliceGrey/OctoprintKlipperPlugin/archive/0.3.2.zip
 Octolapse @ https://github.com/FormerLurker/Octolapse/archive/v0.4.0.zip
-OctoPrint==1.4.2
+OctoPrint==1.8.0
 OctoPrint-Autoscroll @ https://github.com/MoonshineSG/OctoPrint-Autoscroll/archive/master.zip
 OctoPrint-BetterHeaterTimeout @ https://github.com/tjjfvi/OctoPrint-BetterHeaterTimeout/archive/master.zip
 OctoPrint-Cancelobject @ https://github.com/paukstelis/OctoPrint-Cancelobject/archive/master.zip
